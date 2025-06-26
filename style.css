@@ -1,0 +1,117 @@
+.main img {
+    display: flex;
+    width: 175px;
+    height: 47px;
+
+}
+
+.main div {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: #F0400F;
+}
+
+.main div img {
+    width: 27px;
+    height: 23px;
+}
+
+main{
+    width: 700px;
+    height: 786px;
+    background-color: #FFFFFF;
+    margin:0 auto;
+    border-radius: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.main0 {
+    text-align: center;
+}
+.main1 {
+    display: flex;
+    justify-content: center;
+    width: 533px;
+    height: 70px;
+    background-color: #F5F5F5;
+    font-size: 25px;
+    align-items: center;
+    justify-content: space-evenly;border-radius: 15px;
+}
+.main00{
+    background-color: #FFFFFF;
+    width: 255px;
+    height: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    justify-content: center;
+    
+}
+body{
+    background-color:#DEDBDB ;
+}
+.main2 input{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+    width: 533px;
+    height: 30px;
+    margin-top: 20px;
+    border-radius: 15px;
+    background-color: #FAFAFA;
+}
+a{
+text-align: center;
+text-decoration: none;
+color: #000000A3;
+display: flex;
+justify-content: center;
+
+}
+button{
+width: 202px;
+height: 67px;
+background-color: #F69E86;
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 15px;
+}
+.btn1{
+    background-color: #F0400F;
+}
+
+.maiin{
+display: flex;
+justify-content: flex-end;
+}
+header{
+display: flex;
+justify-content: space-between;
+background-color: #FFFFFF;
+width: 100%;
+height: 140px;
+margin-bottom: 30px;
+align-items: center;
+}
+.jafar{
+display: flex;
+justify-content: flex-end;
+justify-content: space-evenly;
+}
+header img{
+width: 175px;height: 47px;
+}
+.jafar img{
+width: 40px;
+height: 40px;
+}
+.main2{
+width: 500px;
+margin: 0 auto;
+}
